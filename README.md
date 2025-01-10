@@ -1,3 +1,3 @@
 # odin-recipes
-Actualmente estoy cursando el proyecto odin con la intención de aprender este maravilloso arte de la programación. Por el momento puedo destacar la correcta metodologia e información suministrada para estudiar los diferentes temas en curso, esto ha desarrollado en mi el interés por la lectura e investigación, las buenas prácticas recomendadas y demás funcionalidades que presentan en el naterial de estudio.
-Deseo aprender muy bien el arte computacional para dedicarme al area tecnologico que siempre me ha encantado desde muy pequeño, la programación me despierta la intención de la creatividad y fomenta en mi la inspiración para ser el mejor en lo que nace desarrollar como proposito de vida.
+Realizar una pagina con formato HTML basico mediante el estructuramiento de la misma.
+Se espera desarrollar habilidades respectivas a la puesta en práctica de lo aprendido a lo largo del curso metodologico ODIN_PROJECT.
